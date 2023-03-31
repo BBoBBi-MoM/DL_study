@@ -1,1 +1,8 @@
 *.csv
+*.txt
+NLP/temp/.data/imdb/aclImdb_v1.tar.gz
+NLP/temp/.data/imdb/aclImdb/imdb.vocab
+NLP/temp/.data/imdb/aclImdb/README
+NLP/temp/.data/imdb/aclImdb/test/labeledBow.feat
+NLP/temp/.data/imdb/aclImdb/train/labeledBow.feat
+NLP/temp/.data/imdb/aclImdb/train/unsupBow.feat
