@@ -6,3 +6,10 @@ NLP/temp/.data/imdb/aclImdb/README
 NLP/temp/.data/imdb/aclImdb/test/labeledBow.feat
 NLP/temp/.data/imdb/aclImdb/train/labeledBow.feat
 NLP/temp/.data/imdb/aclImdb/train/unsupBow.feat
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.mp4
+/nlpproject
+/project
