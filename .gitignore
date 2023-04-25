@@ -13,3 +13,4 @@ NLP/temp/.data/imdb/aclImdb/train/unsupBow.feat
 *.mp4
 /nlpproject
 /project
+/paper_replication/object_detection/RCNN/_1311_rcnn/
