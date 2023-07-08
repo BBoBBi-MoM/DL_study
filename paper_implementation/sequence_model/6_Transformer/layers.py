@@ -1,3 +1,6 @@
+import torch
+import torch.nn as nn
+
 class ScaledDotAttention(nn.Module):
     def __init__(self, d_k=64):
         super().__init__()

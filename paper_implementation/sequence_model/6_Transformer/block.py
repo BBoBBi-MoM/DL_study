@@ -1,3 +1,8 @@
+import torch
+import torch.nn
+
+from layers import *
+
 class EncoderBlock(nn.Module):
     def __init__(self, d_model=512, num_head=8, d_ff=2048, drop_out=0.1):
         super().__init__()
